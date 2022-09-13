@@ -1,2 +1,2 @@
-# safe-witch-hunt
-safe-witch-hunt
+# safe-sybil-hunt
+safe-sybil-hunt
